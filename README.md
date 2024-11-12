@@ -1,8 +1,7 @@
 
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# NAME: KANCHARLA NARMADHA
-# REG NO:212222110016
+# DATE:
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
